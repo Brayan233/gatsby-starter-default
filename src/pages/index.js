@@ -9,10 +9,32 @@ import * as styles from "../components/index.module.css"
 const links = [
   {
     text: "AFFILIATION",
-    url: "https://redirect.viglink.com?u=http%3A%2F%2Fxero.com&key=eb65c5cf937ca20a7e018b363814b881",
+    url: "https://sovrn.co/hkmn1im",
     description:
       "A great place to get started if you're new to web development. Designed to guide you through setting up your first Gatsby site.",
   },
+  {
+    text: "XERO",
+    url: "https://sovrn.co/hkmn1im",
+    description:
+      "A great place to get started if you're new to web development. Designed to guide you through setting up your first Gatsby site.",
+  },
+
+  {
+    text: "XERO",
+    url: "https://sovrn.co/11cov92",
+    description:
+      "A great place to get started if you're new to web development. Designed to guide you through setting up your first Gatsby site.",
+  },
+  {
+    text: "XERO",
+    url: "https://sovrn.co/hkmn1im",
+    description:
+      "A great place to get started if you're new to web development. Designed to guide you through setting up your first Gatsby site.",
+  },
+
+
+  
 
 ]
 
